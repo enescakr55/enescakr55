@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Enes 👋 </h1>
 <!--🔭 I’m currently working on HRMS Project and ESNETCE Social Media Platform -->
 
-🌱 I’m currently learning Node JS 
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="js" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a><a href="https://php.net" target="_blank"> <img width="70" height="40" src="https://www.php.net/images/logos/new-php-logo.png" alt="css" width="40" height="40"/></a></p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="js" width="80" height="80"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a><a href="https://php.net" target="_blank"> <img width="70" height="40" src="https://www.php.net/images/logos/new-php-logo.png" alt="css" width="40" height="40"/></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enescakr55&show_icons=true&locale=en" alt="enescakr55" /></p>
 
