@@ -3,7 +3,6 @@
 <h3 align="left">Programming Languages</h3>
 <ul>
   <li>C#</li>
-  <li>Java</li>
   <li>Javascript</li>
   <ul>
     <li>Angular Framework</li>
@@ -15,7 +14,6 @@
 <ul>
   <li>Visual Studio</li>
   <li>Visual Studio Code</li>
-  <li>Eclipse</li>
 </ul>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enescakr55&show_icons=true&locale=en" alt="enescakr55" /></p>
 
