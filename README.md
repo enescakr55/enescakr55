@@ -8,6 +8,7 @@
     <li>Angular Framework</li>
     <li>Jquery</li>
   </ul>
+  <li>Ionic Framework</li>
 </ul>
 
 <h3 align="left">Tools</h3>
@@ -15,7 +16,6 @@
   <li>Visual Studio</li>
   <li>Visual Studio Code</li>
 </ul>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enescakr55&show_icons=true&locale=en" alt="enescakr55" /></p>
 
 <!--
 **enescakr55/enescakr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
