@@ -1,33 +1,66 @@
-<h1 align="center">Hi, I'm Enes 👋 </h1>
+<div align="center">
+  <img src="./assets/readme-bg.png" width="100%" height="180px" alt="Enes Çakır - Yazılım Geliştirici">
+</div>
 
-<h3 align="left">Programming Languages</h3>
-<ul>
-  <li>C#</li>
-  <li>Javascript</li>
-  <ul>
-    <li>Angular Framework</li>
-    <li>Jquery</li>
-  </ul>
-  <li>Ionic Framework</li>
-</ul>
+<h1 align="center">Merhaba, ben Enes Çakır! 👋</h1>
 
-<h3 align="left">Tools</h3>
-<ul>
-  <li>Visual Studio</li>
-  <li>Visual Studio Code</li>
-</ul>
+<h3 align="center">Yazılım Geliştirici | C# · .NET · Angular</h3>
 
-<!--
-**enescakr55/enescakr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ağırlıklı olarak .NET ekosistemi ve Angular ile uçtan uca yazılım çözümleri geliştiriyorum. Ölçeklenebilir backend servisleri, modern web uygulamaları ve masaüstü yazılımları geliştirmekten keyif alıyorum.
 
-Here are some ideas to get you started:
+🌐 <b>Portfolyom:</b> [enescakr55.github.io/my-portfolio](https://enescakr55.github.io/my-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hakkımda
+
+💻 C#, .NET ve Angular teknolojileriyle profesyonel yazılım geliştirme deneyimine sahibim.
+
+🏗️ Full-stack geliştirme ve yazılım mimarisiyle ilgileniyorum.
+
+☁️ Web, masaüstü ve mobil uygulamalardan oluşan kendi bulut depolama platformumu geliştiriyorum.
+
+🤖 Yerel yapay zekâ modelleri, LLM ve yapay zekâ destekli uygulamalar üzerine çalışıyorum.
+
+
+## Teknolojiler ve Araçlar
+
+
+### Backend
+
+- C#
+
+- .NET / ASP.NET Core
+
+- RESTful API
+
+### Frontend
+
+- Angular
+
+- TypeScript
+
+- JavaScript
+
+- HTML5 / CSS3
+
+- Masaüstü ve Mobil
+
+- WPF
+
+- Ionic
+
+### Veritabanı ve Araçlar
+- PostgreSQL
+
+- MySQL
+
+- Microsoft SQL Server
+
+- SQLite
+
+- Git / GitHub
+
+- Docker
+
+- Visual Studio
+
+- Visual Studio Code
